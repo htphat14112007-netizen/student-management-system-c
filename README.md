@@ -26,4 +26,5 @@ Run:
 - data.txt
 
 ## Author
-- Your Name
+- Huynh Tan Phat
+
